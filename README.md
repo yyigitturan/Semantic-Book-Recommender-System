@@ -1,10 +1,15 @@
 # 📖 Semantic Book Recommender System (AI-Powered)
 
-This project is an **AI-powered semantic book recommendation system** that finds books based on meaning, tone, and genre context rather than keyword matching. Users can simply describe the plot, theme, or mood they’re looking for and receive highly relevant book suggestions.
-
+This project is an **AI-powered semantic book recommendation system** that finds books based on meaning, tone, and genre context rather than keyword matching...
 Built with **Sentence Transformers**, **vector search**, and an **interactive Gradio interface**, it offers a modern and intuitive recommendation experience.
 
----
+***
+
+## 📸 Project Interface
+
+![Gradio Dashboard Arayüzü](interface.png)
+
+***
 
 ## ✨ Key Features
 
@@ -35,6 +40,5 @@ Built with **Sentence Transformers**, **vector search**, and an **interactive Gr
 | UI | Gradio |
 | Data Processing | Python, Pandas, Scikit-learn |
 | Emotion Analysis | Text Classification Models |
-| Workflow | Jupyter Notebooks |
 
 ---
